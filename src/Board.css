@@ -1,0 +1,17 @@
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   cursor: pointer;
+}
+.container{
+    margin: 20px;
+}
+.square{
+    border: 1px solid black;
+height: 100px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
